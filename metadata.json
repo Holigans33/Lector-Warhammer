@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Lectio Divinitatus",
+  "description": "Un lector y buscador de tomos de Warhammer 40k. Busca metadatos, genera reconstrucciones de texto traducidas y convierte texto a voz neural (Audiolibro) utilizando tecnología GenAI.",
+  "requestFramePermissions": []
+}
